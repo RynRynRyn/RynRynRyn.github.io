@@ -1,3 +1,26 @@
-<head>
+
+ <head>
   <title>鬼佬</title>
-<head>
+ </head>
+
+ <body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </body>
