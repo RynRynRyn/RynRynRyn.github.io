@@ -1,23 +1,28 @@
 <table>
   <thead>
     <tr>
-      <th></th>
-      <th scope="col">Saturday</th>
-      <th scope="col">Sunday</th>
+      <th>Quarter</th>
+      <th>Revenue</th>
+      <th>Costs</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Morning</th>
-      <td rowspan="2">Work</td>
-      <td rowspan="3">Relax</td>
+      <th>Q1</th>
+      <td>$10M</td>
+      <td>$7.5M</td>
     </tr>
     <tr>
-     <th scope="row">Afternoon</th>
-    </tr>
-    <tr>
-      <th scope="row">Evening</th>
-      <td>Dinner</td>
+      <th>Q2</th>
+      <td>$12M</td>
+      <td>$5M</td>
     </tr>
   </tbody>
+  <tfoot>
+    <tr>
+      <th>Total</th>
+      <td>$22M</td>
+      <td>$12.5M</td>
+    </tr>
+  </tfoot>
 </table>
