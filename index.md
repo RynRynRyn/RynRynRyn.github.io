@@ -1,23 +1,3 @@
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th scope="col">Saturday</th>
-      <th scope="col">Sunday</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Morning</th>
-      <td rowspan="2">Work</td>
-      <td rowspan="3">Relax</td>
-    </tr>
-    <tr>
-     <th scope="row">Afternoon</th>
-    </tr>
-    <tr>
-      <th scope="row">Evening</th>
-      <td>Dinner</td>
-    </tr>
-  </tbody>
-</table>
+<head>
+  <title>鬼佬</title>
+<head>
